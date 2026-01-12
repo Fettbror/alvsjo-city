@@ -1,3 +1,16 @@
+dotenv==0.9.9
+greenlet==3.2.2
+playwright==1.52.0
+pyee==13.0.0
+python-dotenv==1.0.1
+typing_extensions==4.13.2
+uv==0.4.24
+streamlit==1.31.1
+requests==2.31.0
+python-dotenv==1.0.1
+streamlit-autorefresh==1.0.1
+zoneinfo==0.2.1
+streamlit-autorefresh==1.0.1
 altair==6.0.0
 attrs==25.4.0
 blinker==1.9.0
